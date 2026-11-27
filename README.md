@@ -1,0 +1,1 @@
+# This directory contains the code for the modelling part in the paper "A supracellular desmosome-keratin network drives epithelial flocking and 3D rotation through alignment percolation" by He et al. (2026).
