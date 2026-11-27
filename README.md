@@ -64,7 +64,7 @@ $$ \vec{v}_i = \mathrm{d} \vec{r} / \mathrm{d}t $$
 
 and can be decomposed as the combination of a global rotation and a residual velocity
 
-$$ \vec{v}_i = \vec{omega} \time \vec{v}_i + \delta \vec{v}_i. $$
+$$ \vec{v}_i = \vec{omega} \times \vec{v}_i + \delta \vec{v}_i. $$
 
 We estimate the angular velocity such that $\langle \delta \vec{v}\rangle = 0$. 
 
